@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite1]" parallel="tests">
+  <parameter name="browser" value="firefox"/>
+  <test name="FirefoxTest(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="American_Golf.Testing_GolfClub_UsingGrid">
+        <methods>
+          <include name="setting_up_driver"/>
+          <include name="Test_Testing_Order_flow"/>
+        </methods>
+      </class> <!-- American_Golf.Testing_GolfClub_UsingGrid -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

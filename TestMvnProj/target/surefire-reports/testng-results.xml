@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="46385" started-at="2015-02-14T19:46:07Z" finished-at="2015-02-14T19:46:54Z">
+    <groups>
+    </groups>
+    <test name="IETest1" duration-ms="21829" started-at="2015-02-14T19:46:07Z" finished-at="2015-02-14T19:46:29Z">
+      <class name="American_Golf.Testing_GolfClub_UsingGrid">
+        <test-method status="PASS" signature="setting_up_driver(java.lang.String)[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@4a765]" name="setting_up_driver" is-config="true" duration-ms="4950" started-at="2015-02-14T20:46:07Z" finished-at="2015-02-14T20:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_up_driver -->
+        <test-method status="PASS" signature="Test_Testing_Order_flow()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@4a765]" name="Test_Testing_Order_flow" duration-ms="15844" started-at="2015-02-14T20:46:12Z" finished-at="2015-02-14T20:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Testing_Order_flow -->
+        <test-method status="PASS" signature="Test_close_driver()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@4a765]" name="Test_close_driver" is-config="true" duration-ms="1033" started-at="2015-02-14T20:46:28Z" finished-at="2015-02-14T20:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_close_driver -->
+      </class> <!-- American_Golf.Testing_GolfClub_UsingGrid -->
+    </test> <!-- IETest1 -->
+    <test name="IETest" duration-ms="22491" started-at="2015-02-14T19:46:07Z" finished-at="2015-02-14T19:46:30Z">
+      <class name="American_Golf.Testing_GolfClub_UsingGrid">
+        <test-method status="PASS" signature="setting_up_driver(java.lang.String)[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@12fad11]" name="setting_up_driver" is-config="true" duration-ms="4780" started-at="2015-02-14T20:46:07Z" finished-at="2015-02-14T20:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_up_driver -->
+        <test-method status="PASS" signature="Test_Testing_Order_flow()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@12fad11]" name="Test_Testing_Order_flow" duration-ms="15690" started-at="2015-02-14T20:46:12Z" finished-at="2015-02-14T20:46:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Testing_Order_flow -->
+        <test-method status="PASS" signature="Test_close_driver()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@12fad11]" name="Test_close_driver" is-config="true" duration-ms="1970" started-at="2015-02-14T20:46:28Z" finished-at="2015-02-14T20:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_close_driver -->
+      </class> <!-- American_Golf.Testing_GolfClub_UsingGrid -->
+    </test> <!-- IETest -->
+    <test name="FirefoxTest" duration-ms="35280" started-at="2015-02-14T19:46:07Z" finished-at="2015-02-14T19:46:43Z">
+      <class name="American_Golf.Testing_GolfClub_UsingGrid">
+        <test-method status="PASS" signature="setting_up_driver(java.lang.String)[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@163425a]" name="setting_up_driver" is-config="true" duration-ms="14450" started-at="2015-02-14T20:46:07Z" finished-at="2015-02-14T20:46:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_up_driver -->
+        <test-method status="PASS" signature="Test_Testing_Order_flow()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@163425a]" name="Test_Testing_Order_flow" duration-ms="16915" started-at="2015-02-14T20:46:22Z" finished-at="2015-02-14T20:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Testing_Order_flow -->
+        <test-method status="PASS" signature="Test_close_driver()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@163425a]" name="Test_close_driver" is-config="true" duration-ms="3913" started-at="2015-02-14T20:46:39Z" finished-at="2015-02-14T20:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_close_driver -->
+      </class> <!-- American_Golf.Testing_GolfClub_UsingGrid -->
+    </test> <!-- FirefoxTest -->
+    <test name="FirefoxTest1" duration-ms="46384" started-at="2015-02-14T19:46:07Z" finished-at="2015-02-14T19:46:54Z">
+      <class name="American_Golf.Testing_GolfClub_UsingGrid">
+        <test-method status="PASS" signature="setting_up_driver(java.lang.String)[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@d3bd8b]" name="setting_up_driver" is-config="true" duration-ms="30366" started-at="2015-02-14T20:46:07Z" finished-at="2015-02-14T20:46:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_up_driver -->
+        <test-method status="PASS" signature="Test_Testing_Order_flow()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@d3bd8b]" name="Test_Testing_Order_flow" duration-ms="13557" started-at="2015-02-14T20:46:38Z" finished-at="2015-02-14T20:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Testing_Order_flow -->
+        <test-method status="PASS" signature="Test_close_driver()[pri:0, instance:American_Golf.Testing_GolfClub_UsingGrid@d3bd8b]" name="Test_close_driver" is-config="true" duration-ms="2455" started-at="2015-02-14T20:46:51Z" finished-at="2015-02-14T20:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_close_driver -->
+      </class> <!-- American_Golf.Testing_GolfClub_UsingGrid -->
+    </test> <!-- FirefoxTest1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
